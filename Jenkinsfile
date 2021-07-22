@@ -1,6 +1,6 @@
 pipeline {
 stages {
-stage('Find all fodlers from given folder') {
+stage(''Dev Env) {
 steps {
 bat("dir")
 }
